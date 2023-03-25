@@ -11,3 +11,4 @@ arear = l*b
 print(f"area of circle is ", area)
 print(areat)
 print(arear)
+##thank you
