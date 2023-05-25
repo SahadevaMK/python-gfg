@@ -11,4 +11,4 @@ class Solution:
                 c+=1
                 hs.remove(b[j])
         return c
-      
+      ## hashing
