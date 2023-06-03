@@ -6,3 +6,4 @@ class Solution:
             if arr[i]==0: c+=1
         return c
                 
+#easy
