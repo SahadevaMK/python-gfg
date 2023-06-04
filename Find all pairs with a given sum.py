@@ -7,3 +7,4 @@ class Solution:
                 if (A[i]+B[j]) == X:
                     li.append((A[i],B[j]))
         return sorted(li)
+# thank you
